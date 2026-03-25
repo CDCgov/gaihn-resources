@@ -8,7 +8,7 @@ What to know
 
 ## Where GAIHN Works
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2e324529-22dd-4139-aaa9-692b9c2fb108" />
+<img width="1200" height="675" alt="image" src="https://www.cdc.gov/international-infection-control/media/images/GAIHN-Map.jpg" />
 
 [GAIHN AR](gaihn-ar/ar-overview.md)
 
